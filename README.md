@@ -11,7 +11,7 @@
 <i>Estudando Python, AI, Data Science e Data Analysis.</i>
 <img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667468701.svg?token=exp=1676668369~hmac=feb4698c53ece94127fda12ca46b01e2"/> 
  
-<i>E-mail para contato: atrylli.mn@gmail.com</i>
+<i>E-mail para contato: atryllicouto@gmail.com</i>
 <img align = "left" alt= "Title-icon" height = "25" width = "25" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667930134.svg?token=exp=1676668831~hmac=b69c4f5b47e6a416730ca76934f3d76c"/> 
 </p>
 </header>
