@@ -2,7 +2,8 @@
 
 - 🔭 Em busca de oportunidades na área de Dados
 - 🌱 Estudando Python
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
+- 📬 E-mail para contato: atrylli.mn@gmail.com
 
 <div>
   <a href="https://github.com/atrylli">
@@ -10,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrylli&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
+### Linguagens e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Atry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Atry-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
@@ -18,11 +20,16 @@
 </div>
 
   ##
-  
+
+### Conecte-se comigo:
 <div>
-  <a href="https://instagram.com/_trylli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:atrylli.mn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/atrylli-couto-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+  <a href="https://instagram.com/_trylli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/atrylli-couto" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" height="30" width="40"></a> 
+
+
+   
   ![Snake animation](https://github.com/Atrylli/atrylli/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+    
