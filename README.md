@@ -4,16 +4,14 @@
 
 <img align="right" alt="Atry-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/656990779201421313/1075957553743286413/gif_atry.gif">
 
-<p>
-<i>Tecnóloga em Análise e Desenvolvimento de Sistemas, em busca de oportunidades na área de Dados.</i>
-<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667607663.svg?token=exp=1676668508~hmac=ef8fb7bd69849fd30b01e4cc090dd1c7"/> 
+<p> <i>Tecnóloga em Análise e Desenvolvimento de Sistemas, em busca de oportunidades na área de Dados.</i>
+<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667607663.svg?token=exp=1676668508~hmac=ef8fb7bd69849fd30b01e4cc090dd1c7"/> </p>
   
-<i>Estudando Python, AI, Data Science e Data Analysis.</i>
-<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667468701.svg?token=exp=1676668369~hmac=feb4698c53ece94127fda12ca46b01e2"/> 
+<p> <i>Estudando Python, AI, Data Science e Data Analysis.</i>
+<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667468701.svg?token=exp=1676668369~hmac=feb4698c53ece94127fda12ca46b01e2"/> </p>
  
-<i>E-mail para contato: atryllicouto@gmail.com</i>
-<img align = "left" alt= "Title-icon" height = "25" width = "25" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667930134.svg?token=exp=1676668831~hmac=b69c4f5b47e6a416730ca76934f3d76c"/> 
-</p>
+<p> <i>E-mail para contato: atryllicouto@gmail.com</i>
+<img align = "left" alt= "Title-icon" height = "25" width = "25" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667930134.svg?token=exp=1676668831~hmac=b69c4f5b47e6a416730ca76934f3d76c"/> </p>
 </header>
 
 <div>
