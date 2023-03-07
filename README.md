@@ -5,11 +5,11 @@
 <img align="right" alt="Atry-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/656990779201421313/1075957553743286413/gif_atry.gif">
 
 <p> 
-<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667607663.svg?token=exp=1676668508~hmac=ef8fb7bd69849fd30b01e4cc090dd1c7"/> <i>Tecnóloga em Análise e Desenvolvimento de Sistemas, em busca de oportunidades na área de Dados.</i> 
+<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366029619290/1676667607663.png"/> <i>Tecnóloga em Análise e Desenvolvimento de Sistemas, em busca de oportunidades na área de Dados.</i> 
   
-<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667468701.svg?token=exp=1676668369~hmac=feb4698c53ece94127fda12ca46b01e2"/> <i>Estudando Python, AI, Data Science e Data Analysis.</i>  
+<img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366335811594/1676667468701.png"/> <i>Estudando Python, AI, Data Science e Data Analysis.</i>  
  
-<img align = "left" alt= "Title-icon" height = "25" width = "25" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676667930134.svg?token=exp=1676668831~hmac=b69c4f5b47e6a416730ca76934f3d76c"/> <i>E-mail para contato: atryllicouto@gmail.com</i>
+<img align = "left" alt= "Title-icon" height = "25" width = "25" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789365710860459/1676667930134.png"/> <i>E-mail para contato: atryllicouto@gmail.com</i>
 </p>
 </header>
 
@@ -26,15 +26,15 @@
   <img align="center" alt="Atry-Python" height="45" width="45" src="https://img.itch.zone/aW1hZ2UvMTIzMzU0OC83MTkzMjIzLnBuZw==/347x500/bOhDrd.png">
   <img align="center" alt="Atry-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Atry-Jupyter_note" height="45" width="45" src="https://img.icons8.com/fluency/48/null/jupyter.png"/>
- <img align="center" alt="Atry-Jupyter_note" height="45" width="45" src="https://cdn-user-icons.flaticon.com/27752/27752796/1676670770335.svg?token=exp=1676671671~hmac=31b32b9ab2d50ccf3b7c5fc44bf0b7fe"/>
+ <img align="center" alt="Atry-Figma" height="45" width="45" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789365228503110/1676670770335.png"/>
   
 </div>
   
 <div>
   <h2 align = "left"> Conecte-se Comigo!  </h2>
   
-  <a href="https://instagram.com/_trylli" target="_blank"><img src="https://cdn-user-icons.flaticon.com/27752/27752796/1676668902216.svg?token=exp=1676669803~hmac=6e712558109e6c00d1c82be58b5f9a9a" target="_blank" height="30" width="40"></a>
-  <a href="https://www.linkedin.com/in/atryllicouto/" target="_blank"><img src="https://cdn-user-icons.flaticon.com/27752/27752796/1676668808990.svg?token=exp=1676669709~hmac=733c39431cd3b5121ac3e4adeead6d1e" target="_blank" height="30" width="40"></a> 
+  <a href="https://instagram.com/_trylli" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366612627476/1676668902216.png" target="_blank" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/atryllicouto/" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366855905290/1676668808990.png" target="_blank" height="30" width="30"></a> 
    
   ![Snake animation](https://github.com/Atrylli/atrylli/blob/output/github-contribution-grid-snake.svg)
 </div>
