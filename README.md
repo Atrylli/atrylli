@@ -2,7 +2,7 @@
 <h1> <strong>Oláa, meu nome é Atrylli Couto!</strong>
 <img align = "left" alt= "Title-icon" height = "40" width = "40" src="https://img.icons8.com/fluency/48/null/minecraft-golden-apple.png"/> </h1>
 
-<img align="right" alt="Atry-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/656990779201421313/1075957553743286413/gif_atry.gif">
+<img align="right" alt="Atry-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/656990779201421313/1083451830245281912/gif_atry.gif">
 
 <p> 
 <img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366029619290/1676667607663.png"/> <i>Tecnóloga em Análise e Desenvolvimento de Sistemas, em busca de oportunidades na área de Dados.</i> 
