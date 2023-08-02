@@ -35,7 +35,6 @@
   <a href="https://instagram.com/_trylli" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366612627476/1676668902216.png" target="_blank" height="30" width="30"></a>
   <a href="https://www.linkedin.com/in/atryllicouto/" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366855905290/1676668808990.png" target="_blank" height="30" width="30"></a> 
    
-  ![Snake animation](https://github.com/Atrylli/atrylli/blob/output/github-contribution-grid-snake.svg)
 </div>
 
     
