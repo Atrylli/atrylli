@@ -1,7 +1,6 @@
 <header>
 <h1> <strong>Oláa, meu nome é Atrylli Couto!</strong>
 <img align = "left" alt= "Title-icon" height = "40" width = "40" src="https://img.icons8.com/fluency/48/null/minecraft-golden-apple.png"/> </h1>
-
 <img align="right" alt="Atry-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/656990779201421313/1083451830245281912/gif_atry.gif">
 
 <p> 
@@ -25,16 +24,13 @@
   <img align="center" alt="Atry-Python" height="45" width="45" src="https://img.itch.zone/aW1hZ2UvMTIzMzU0OC83MTkzMjIzLnBuZw==/347x500/bOhDrd.png">
   <img align="center" alt="Atry-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Atry-Jupyter_note" height="45" width="45" src="https://img.icons8.com/fluency/48/null/jupyter.png"/>
- <img align="center" alt="Atry-Figma" height="45" width="45" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789365228503110/1676670770335.png"/>
-  
+  <img align="center" alt="Atry-Figma" height="45" width="45" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789365228503110/1676670770335.png"/>
 </div>
   
 <div>
   <h2 align = "left"> Conecte-se Comigo!  </h2>
   
-  <a href="https://instagram.com/_trylli" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366612627476/1676668902216.png" target="_blank" height="30" width="30"></a>
   <a href="https://www.linkedin.com/in/atryllicouto/" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366855905290/1676668808990.png" target="_blank" height="30" width="30"></a> 
-   
 </div>
 
     
